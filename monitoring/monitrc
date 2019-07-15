@@ -297,7 +297,7 @@ set mail-format {
 #
 #
 set mailserver smtp.gmail.com port 587
-       username "indrakumarm" password "!kumary2k"
+       username "indrakumarm" password "XXXXX"
        using tlsv1
        with timeout 30 seconds
 
