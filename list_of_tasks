@@ -1,0 +1,20 @@
+List of tasks
+Monitoring:
+Install and configure m/monit or  monitoring tool of your choice 
+Demo automatic restarts of a failed process. 
+Detect a hung process
+Monitor a log file, detect a pattern detection, send an email on detection
+Setup alerting
+
+Docker:
+Create a sample docker container with a Node.js Express app and demonstrate the installation.
+
+Security:
+Show how to block ports
+Show how to setup port forwarding
+
+
+Network:
+Show list of processes using the network.
+Show the list of IPs a process is connected to
+
